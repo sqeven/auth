@@ -10,4 +10,6 @@ RUN apk add --no-cache gettext
 
 COPY auth.conf auth.htpasswd sqeven.sh ./
 
+RUN ["chmod", "+x", "sqeven.sh"]
+
 CMD ["./sqeven.sh"]
