@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/sqeven/gcr.svg?branch=master)](https://travis-ci.org/sqeven/auth)
 [![Beevelop](https://img.shields.io/badge/sqeven-auth-brightgreen.svg)](https://sqeven.io)
 
-# nginx-basic-auth
+# auth
 ----
 > Simple Docker image to provide basic authentication for a single other container.
 
